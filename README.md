@@ -273,11 +273,15 @@ $ sudo apt install graphviz
 
 **Alejandro Molina-Villegas**
 
+* [CONACyT-CentroGeo](https://www.centrogeo.org.mx/areas-profile/amolina)
+
 * [dblp](https://dblp.uni-trier.de/pers/hd/m/Molina=Villegas:Alejandro)
 * [orcid](https://orcid.org/0000-0001-9398-8844)
-* [CONACyT-CentroGeo](http://mid.geoint.mx/site/integrante/id/15.html)
 
 **José Luis Silván**
+
+* [CONACyT-CentroGeo](https://www.centrogeo.org.mx/areas-profile/jsilvan)
+
 
 See also the list of [contributors](contributors) who participate in this project.
 
