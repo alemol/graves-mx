@@ -1,0 +1,3979 @@
+
+* finding description>400 MTS AL SUR DEL ENTRONQUE PIEDRAS NEGRAS-NAVA Y A 150 MTS AL PONIENTE DE LA CINTA ASFALTICA EN EL LUGAR CONOCIDO COMO "LA MOTA"
+region>NORTE I
+
+q>400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+[]
+
+q>400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+[]
+
+q>400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+[]
+
+q>400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+400 mts al sur del entronque piedras negras-nava y a 150 mts al poniente de la cinta asfaltica en el lugar conocido como la mota
+[]
+
+* finding description>CAMINO DE TERRACERIA  A 900 mts DEL LUGAR CONOCIDO COMO PALMIRA EJIDO LA LUZ - VILLA UNIÓN 
+region>NORTE I
+
+q>camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+[]
+
+q>camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+[]
+
+q>camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+[]
+
+q>camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+camino de terraceria  a 900 mts del lugar conocido como palmira ejido la luz - villa unión 
+[]
+
+* finding description>CARRETERA 57 TRAMO NAVA-PIEDRAS NEGRAS KM 230+200
+region>NORTE I
+
+q>carretera 57 tramo nava-piedras negras km 230+200
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+carretera 57 tramo nava-piedras negras km 230+200
+[]
+
+q>carretera 57 tramo nava-piedras negras km 230+200
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+carretera 57 tramo nava-piedras negras km 230+200
+[]
+
+q>carretera 57 tramo nava-piedras negras km 230+200
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+carretera 57 tramo nava-piedras negras km 230+200
+[]
+
+q>carretera 57 tramo nava-piedras negras km 230+200
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+carretera 57 tramo nava-piedras negras km 230+200
+[]
+
+* finding description>EJIDO "LA LUZ"
+region>NORTE I
+
+q>ejido la luz
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+ejido la luz
+[]
+
+q>ejido la luz
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+ejido la luz
+[]
+
+q>ejido la luz
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+ejido la luz
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "28° 8' 60.00000'' N",
+        "lng": "100° 43' 59.98800'' W"
+      },
+      "MGRS": "14RLS2979615033",
+      "Maidenhead": "DL98pd26aa",
+      "Mercator": {
+        "x": -11213583.002,
+        "y": 3247744.568
+      },
+      "OSM": {
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/28.15000/-100.73333&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=28.15000&mlon=-100.73333#map=16/28.15000/-100.73333"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9v025u81xk34f3uuq39m",
+      "qibla": 41.81,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074400,
+          "astronomical": 1602069780,
+          "civil": 1602073020,
+          "nautical": 1602071400
+        },
+        "set": {
+          "apparent": 1602030000,
+          "astronomical": 1602034680,
+          "civil": 1602031440,
+          "nautical": 1602033060
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "cumbre.pensaban.desemboca"
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "city",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "Ejido La Luz"
+    },
+    "confidence": 9,
+    "formatted": "Ejido La Luz, Coahuila de Zaragoza, México",
+    "geometry": {
+      "lat": 28.15,
+      "lng": -100.73333
+    }
+  }
+]
+
+q>ejido la luz
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+ejido la luz
+[]
+
+* finding description>EJIDO "SANTA ANA"
+region>NORTE I
+
+q>ejido santa ana
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+ejido santa ana
+[]
+
+q>ejido santa ana
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+ejido santa ana
+[]
+
+q>ejido santa ana
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+ejido santa ana
+[]
+
+q>ejido santa ana
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+ejido santa ana
+[]
+
+* finding description>EJIDO PIEDRAS NEGRAS EN LA ZONA CONOCIDA COMO AUTODROMO DE PIEDRAS NEGRAS
+region>NORTE I
+
+q>ejido piedras negras en la zona conocida como autodromo de piedras negras
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+ejido piedras negras en la zona conocida como autodromo de piedras negras
+[]
+
+q>ejido piedras negras en la zona conocida como autodromo de piedras negras
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+ejido piedras negras en la zona conocida como autodromo de piedras negras
+[]
+
+q>ejido piedras negras en la zona conocida como autodromo de piedras negras
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+ejido piedras negras en la zona conocida como autodromo de piedras negras
+[]
+
+q>ejido piedras negras en la zona conocida como autodromo de piedras negras
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+ejido piedras negras en la zona conocida como autodromo de piedras negras
+[]
+
+* finding description>LADO PONIENTE DE CARRETERA FEDERAL No 2 POR LA PARTE TRASERA DEL CAMPO DE GOLF
+region>NORTE I
+
+q>lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+[]
+
+q>lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+[]
+
+q>lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+[]
+
+q>lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+lado poniente de carretera federal no 2 por la parte trasera del campo de golf
+[]
+
+* finding description>RANCHO CONOCIDO COMO "EL CEDRAL"
+region>NORTE I
+
+q>rancho conocido como el cedral
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+rancho conocido como el cedral
+[]
+
+q>rancho conocido como el cedral
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+rancho conocido como el cedral
+[]
+
+q>rancho conocido como el cedral
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+rancho conocido como el cedral
+[]
+
+q>rancho conocido como el cedral
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+rancho conocido como el cedral
+[]
+
+* finding description>SU ORIENTE DE LA MANCHA URBANA DE VILLA UNIÓN A 30 KM AL PONIENTE  DE LA CINTA ASFALTICA DE LA CARRETERA VILLA UNION GUERRERO
+region>NORTE I
+
+q>su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+[]
+
+q>su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+[]
+
+q>su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+[]
+
+q>su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+su oriente de la mancha urbana de villa unión a 30 km al poniente  de la cinta asfaltica de la carretera villa union guerrero
+[]
+
+* finding description>SUR ORIENTE DE LA MANCHA URBANA DE VILLA UNION A TRES KILOMETROS AL ORIENTE DE LA CINTA ASFALTICA DE LA CARRETERA VILLA UNIÓN GUERRERO
+region>NORTE I
+
+q>sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+[]
+
+q>sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+[]
+
+q>sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+[]
+
+q>sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+sur oriente de la mancha urbana de villa union a tres kilometros al oriente de la cinta asfaltica de la carretera villa unión guerrero
+[]
+
+* finding description>CARRETERA PIEDRAS NEGRAS-NAVA 100MTS AL PONIENTE DE LA CINTA ASFALTICA A 13 KM DE LA CD DE PIEDRAS NEGRAS
+region>NORTE I
+
+q>carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+[]
+
+q>carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+[]
+
+q>carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+[]
+
+q>carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+carretera piedras negras-nava 100mts al poniente de la cinta asfaltica a 13 km de la cd de piedras negras
+[]
+
+* finding description>DIFERENTES PREDIOS 28°24'24.2"N 100°44'29.8"W,
+region>NORTE I
+
+q>diferentes predios 28°24'24.2n 100°44'29.8w,
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+diferentes predios 28°24'24.2n 100°44'29.8w,
+[]
+
+q>diferentes predios 28°24'24.2n 100°44'29.8w,
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+diferentes predios 28°24'24.2n 100°44'29.8w,
+[]
+
+q>diferentes predios 28°24'24.2n 100°44'29.8w,
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+diferentes predios 28°24'24.2n 100°44'29.8w,
+[]
+
+q>diferentes predios 28°24'24.2n 100°44'29.8w,
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+diferentes predios 28°24'24.2n 100°44'29.8w,
+[]
+
+* finding description>DIFERENTES PREDIOS N 28° 20' 28.324" W 100° 52' 9.05"  
+region>NORTE I
+
+q>diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+[]
+
+q>diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+[]
+
+q>diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+[]
+
+q>diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+diferentes predios n 28° 20' 28.324 w 100° 52' 9.05  
+[]
+
+* finding description>DIFERENTES PARAJES
+region>NORTE I
+
+q>diferentes parajes
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+diferentes parajes
+[]
+
+q>diferentes parajes
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+diferentes parajes
+[]
+
+q>diferentes parajes
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+diferentes parajes
+[]
+
+q>diferentes parajes
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+diferentes parajes
+[]
+
+* finding description>km 48 de Autopista Allende- Rosita
+region>NORTE I
+
+q>km 48 de autopista allende- rosita
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+km 48 de autopista allende- rosita
+[]
+
+q>km 48 de autopista allende- rosita
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+km 48 de autopista allende- rosita
+[]
+
+q>km 48 de autopista allende- rosita
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+km 48 de autopista allende- rosita
+[]
+
+q>km 48 de autopista allende- rosita
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+km 48 de autopista allende- rosita
+[]
+
+* finding description>Predio de Autopista Allende- Rosita
+region>NORTE I
+
+q>predio de autopista allende- rosita
+bound name>Piedras Negras
+bound coords>-100.7656021,28.60662651,-100.4454193,28.94075394
+predio de autopista allende- rosita
+[]
+
+q>predio de autopista allende- rosita
+bound name>Allende
+bound coords>-101.0347061,28.19050026,-100.7317657,28.38165474
+predio de autopista allende- rosita
+[]
+
+q>predio de autopista allende- rosita
+bound name>Villa Union
+bound coords>-101.0330353,27.82143784,-100.5381088,28.37746811
+predio de autopista allende- rosita
+[]
+
+q>predio de autopista allende- rosita
+bound name>Nava
+bound coords>-100.83931729999999,28.33309555,-100.39678959999999,28.65101814
+predio de autopista allende- rosita
+[]
+
+* finding description>EJIDO ATALAYA
+region>LAGUNA I
+
+q>ejido atalaya
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido atalaya
+[]
+
+q>ejido atalaya
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido atalaya
+[]
+
+q>ejido atalaya
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido atalaya
+[]
+
+* finding description>EJIDO EL QUEMADO
+region>LAGUNA I
+
+q>ejido el quemado
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido el quemado
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 24.68268'' N",
+        "lng": "103° 22' 26.83920'' W"
+      },
+      "MGRS": "13RFJ6340122071",
+      "Maidenhead": "DL85hm51cp",
+      "Mercator": {
+        "x": -11507554.622,
+        "y": 2919736.03
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=765558671#map=17/25.50686/-103.37412",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.50686/-103.37412&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50686&mlon=-103.37412#map=17/25.50686/-103.37412"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw3pemk0qeu6zevnb30",
+      "qibla": 40.6,
+      "roadinfo": {
+        "drive_on": "right",
+        "road": "Avenida Sierra del Quemado",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "futura.temo.rueda"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5068563,
+        "lng": -103.374122
+      },
+      "southwest": {
+        "lat": 25.5067477,
+        "lng": -103.3749491
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27296",
+      "road": "Avenida Sierra del Quemado",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Avenida Sierra del Quemado, 27296 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5068563,
+      "lng": -103.374122
+    }
+  }
+]
+---- FOUND ejido el quemado ----
+insert>Avenida Sierra del Quemado, 27296 Torreón, COA, México as child of Torreon
+
+q>ejido el quemado
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido el quemado
+[]
+
+q>ejido el quemado
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido el quemado
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 24.68268'' N",
+        "lng": "103° 22' 26.83920'' W"
+      },
+      "MGRS": "13RFJ6340122071",
+      "Maidenhead": "DL85hm51cp",
+      "Mercator": {
+        "x": -11507554.622,
+        "y": 2919736.03
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=765558671#map=16/25.50686/-103.37412",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.50686/-103.37412&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50686&mlon=-103.37412#map=16/25.50686/-103.37412"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw3pemk0qeu6zevnb30",
+      "qibla": 40.6,
+      "roadinfo": {
+        "drive_on": "right",
+        "road": "Avenida Sierra del Quemado",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "futura.temo.rueda"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5068563,
+        "lng": -103.374122
+      },
+      "southwest": {
+        "lat": 25.5067477,
+        "lng": -103.3749491
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27296",
+      "road": "Avenida Sierra del Quemado",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Avenida Sierra del Quemado, 27296 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5068563,
+      "lng": -103.374122
+    }
+  }
+]
+---- FOUND ejido el quemado ----
+insert>Avenida Sierra del Quemado, 27296 Torreón, COA, México as child of Viesca
+
+* finding description>EJIDO GILITA
+region>LAGUNA I
+
+q>ejido gilita
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido gilita
+[]
+
+q>ejido gilita
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido gilita
+[]
+
+q>ejido gilita
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido gilita
+[]
+
+* finding description>EJIDO PUERTO PERICOS
+region>LAGUNA I
+
+q>ejido puerto pericos
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido puerto pericos
+[]
+
+q>ejido puerto pericos
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido puerto pericos
+[]
+
+q>ejido puerto pericos
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido puerto pericos
+[]
+
+* finding description>EJIDO RANCHO ALEGRE
+region>LAGUNA I
+
+q>ejido rancho alegre
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido rancho alegre
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 10.03284'' N",
+        "lng": "103° 19' 41.52972'' W"
+      },
+      "MGRS": "13RFJ6802221678",
+      "Maidenhead": "DL85im00oq",
+      "Mercator": {
+        "x": -11502442.909,
+        "y": 2919236.854
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=1613371423#map=16/25.50279/-103.32820",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.50279/-103.32820&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50279&mlon=-103.32820#map=16/25.50279/-103.32820"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw90dwsw25c843d7qvf",
+      "qibla": 40.64,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070380,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "naranja.adorna.poseen"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5227869,
+        "lng": -103.3082027
+      },
+      "southwest": {
+        "lat": 25.4827869,
+        "lng": -103.3482027
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "postcode": "27277",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Rancho Alegre"
+    },
+    "confidence": 7,
+    "formatted": "27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5027869,
+      "lng": -103.3282027
+    }
+  }
+]
+---- FOUND ejido rancho alegre ----
+insert>27277 Torreón, COA, México as child of Torreon
+
+q>ejido rancho alegre
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido rancho alegre
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 10.03284'' N",
+        "lng": "103° 19' 41.52972'' W"
+      },
+      "MGRS": "13RFJ6802221678",
+      "Maidenhead": "DL85im00oq",
+      "Mercator": {
+        "x": -11502442.909,
+        "y": 2919236.854
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=1613371423#map=17/25.50279/-103.32820",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.50279/-103.32820&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50279&mlon=-103.32820#map=17/25.50279/-103.32820"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw90dwsw25c843d7qvf",
+      "qibla": 40.64,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070380,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "naranja.adorna.poseen"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5227869,
+        "lng": -103.3082027
+      },
+      "southwest": {
+        "lat": 25.4827869,
+        "lng": -103.3482027
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "postcode": "27277",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Rancho Alegre"
+    },
+    "confidence": 7,
+    "formatted": "27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5027869,
+      "lng": -103.3282027
+    }
+  }
+]
+---- FOUND ejido rancho alegre ----
+insert>27277 Torreón, COA, México as child of Matamoros
+
+q>ejido rancho alegre
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido rancho alegre
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 10.03284'' N",
+        "lng": "103° 19' 41.52972'' W"
+      },
+      "MGRS": "13RFJ6802221678",
+      "Maidenhead": "DL85im00oq",
+      "Mercator": {
+        "x": -11502442.909,
+        "y": 2919236.854
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=1613371423#map=16/25.50279/-103.32820",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.50279/-103.32820&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50279&mlon=-103.32820#map=16/25.50279/-103.32820"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw90dwsw25c843d7qvf",
+      "qibla": 40.64,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070380,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "naranja.adorna.poseen"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5227869,
+        "lng": -103.3082027
+      },
+      "southwest": {
+        "lat": 25.4827869,
+        "lng": -103.3482027
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "postcode": "27277",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Rancho Alegre"
+    },
+    "confidence": 7,
+    "formatted": "27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5027869,
+      "lng": -103.3282027
+    }
+  }
+]
+---- FOUND ejido rancho alegre ----
+insert>27277 Torreón, COA, México as child of Viesca
+
+* finding description>EJIDO SAN ANTONIO DEL ALTO 
+region>LAGUNA I
+
+q>ejido san antonio del alto 
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido san antonio del alto 
+[]
+
+q>ejido san antonio del alto 
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido san antonio del alto 
+[]
+
+q>ejido san antonio del alto 
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido san antonio del alto 
+[]
+
+* finding description>Ejido Tierra y Libertad
+region>LAGUNA I
+
+q>ejido tierra y libertad
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido tierra y libertad
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 19.52820'' N",
+        "lng": "103° 21' 2.06388'' W"
+      },
+      "MGRS": "13RFJ6577021942",
+      "Maidenhead": "DL85hm71wh",
+      "Mercator": {
+        "x": -11504933.193,
+        "y": 2919560.395
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=765840542#map=16/25.50542/-103.35057",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.50542/-103.35057&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50542&mlon=-103.35057#map=16/25.50542/-103.35057"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw905n7v5ep2xpbb74j",
+      "qibla": 40.62,
+      "roadinfo": {
+        "drive_on": "right",
+        "road": "Privada Tierra Nova",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "fama.tono.purista"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5055703,
+        "lng": -103.3504231
+      },
+      "southwest": {
+        "lat": 25.5051965,
+        "lng": -103.3511314
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27277",
+      "road": "Privada Tierra Nova",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Privada Tierra Nova, 27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5054245,
+      "lng": -103.3505733
+    }
+  },
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 40.64148'' N",
+        "lng": "103° 21' 40.11408'' W"
+      },
+      "MGRS": "13RFJ6469922578",
+      "Maidenhead": "DL85hm62pr",
+      "Mercator": {
+        "x": -11506109.784,
+        "y": 2920279.825
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=612754327#map=16/25.51129/-103.36114",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.51129/-103.36114&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.51129&mlon=-103.36114#map=16/25.51129/-103.36114"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw3punwnc1b6esv0936",
+      "qibla": 40.61,
+      "roadinfo": {
+        "drive_on": "right",
+        "oneway": "yes",
+        "road": "Circuito de la Tierra",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "verbo.regir.jefa"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5121236,
+        "lng": -103.3606897
+      },
+      "southwest": {
+        "lat": 25.5105414,
+        "lng": -103.3616224
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27297",
+      "road": "Circuito de la Tierra",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Circuito de la Tierra, 27297 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5112893,
+      "lng": -103.3611428
+    }
+  }
+]
+---- FOUND ejido tierra y libertad ----
+insert>Privada Tierra Nova, 27277 Torreón, COA, México as child of Torreon
+---- FOUND ejido tierra y libertad ----
+insert>Circuito de la Tierra, 27297 Torreón, COA, México as child of Torreon
+
+q>ejido tierra y libertad
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido tierra y libertad
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 19.52820'' N",
+        "lng": "103° 21' 2.06388'' W"
+      },
+      "MGRS": "13RFJ6577021942",
+      "Maidenhead": "DL85hm71wh",
+      "Mercator": {
+        "x": -11504933.193,
+        "y": 2919560.395
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=765840542#map=16/25.50542/-103.35057",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.50542/-103.35057&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50542&mlon=-103.35057#map=16/25.50542/-103.35057"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw905n7v5ep2xpbb74j",
+      "qibla": 40.62,
+      "roadinfo": {
+        "drive_on": "right",
+        "road": "Privada Tierra Nova",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "fama.tono.purista"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5055703,
+        "lng": -103.3504231
+      },
+      "southwest": {
+        "lat": 25.5051965,
+        "lng": -103.3511314
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27277",
+      "road": "Privada Tierra Nova",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Privada Tierra Nova, 27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5054245,
+      "lng": -103.3505733
+    }
+  },
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 40.64148'' N",
+        "lng": "103° 21' 40.11408'' W"
+      },
+      "MGRS": "13RFJ6469922578",
+      "Maidenhead": "DL85hm62pr",
+      "Mercator": {
+        "x": -11506109.784,
+        "y": 2920279.825
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=612754327#map=16/25.51129/-103.36114",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.51129/-103.36114&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.51129&mlon=-103.36114#map=16/25.51129/-103.36114"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw3punwnc1b6esv0936",
+      "qibla": 40.61,
+      "roadinfo": {
+        "drive_on": "right",
+        "oneway": "yes",
+        "road": "Circuito de la Tierra",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "verbo.regir.jefa"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5121236,
+        "lng": -103.3606897
+      },
+      "southwest": {
+        "lat": 25.5105414,
+        "lng": -103.3616224
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27297",
+      "road": "Circuito de la Tierra",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Circuito de la Tierra, 27297 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5112893,
+      "lng": -103.3611428
+    }
+  }
+]
+---- FOUND ejido tierra y libertad ----
+insert>Privada Tierra Nova, 27277 Torreón, COA, México as child of Matamoros
+---- FOUND ejido tierra y libertad ----
+insert>Circuito de la Tierra, 27297 Torreón, COA, México as child of Matamoros
+
+q>ejido tierra y libertad
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido tierra y libertad
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 19.52820'' N",
+        "lng": "103° 21' 2.06388'' W"
+      },
+      "MGRS": "13RFJ6577021942",
+      "Maidenhead": "DL85hm71wh",
+      "Mercator": {
+        "x": -11504933.193,
+        "y": 2919560.395
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=765840542#map=17/25.50542/-103.35057",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.50542/-103.35057&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.50542&mlon=-103.35057#map=17/25.50542/-103.35057"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw905n7v5ep2xpbb74j",
+      "qibla": 40.62,
+      "roadinfo": {
+        "drive_on": "right",
+        "road": "Privada Tierra Nova",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "fama.tono.purista"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5055703,
+        "lng": -103.3504231
+      },
+      "southwest": {
+        "lat": 25.5051965,
+        "lng": -103.3511314
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27277",
+      "road": "Privada Tierra Nova",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Privada Tierra Nova, 27277 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5054245,
+      "lng": -103.3505733
+    }
+  },
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 30' 40.64148'' N",
+        "lng": "103° 21' 40.11408'' W"
+      },
+      "MGRS": "13RFJ6469922578",
+      "Maidenhead": "DL85hm62pr",
+      "Mercator": {
+        "x": -11506109.784,
+        "y": 2920279.825
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=612754327#map=17/25.51129/-103.36114",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.51129/-103.36114&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.51129&mlon=-103.36114#map=17/25.51129/-103.36114"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9sw3punwnc1b6esv0936",
+      "qibla": 40.61,
+      "roadinfo": {
+        "drive_on": "right",
+        "oneway": "yes",
+        "road": "Circuito de la Tierra",
+        "road_type": "residential",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602075000,
+          "astronomical": 1602070440,
+          "civil": 1602073620,
+          "nautical": 1602072000
+        },
+        "set": {
+          "apparent": 1602030720,
+          "astronomical": 1602035280,
+          "civil": 1602032100,
+          "nautical": 1602033660
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "verbo.regir.jefa"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.5121236,
+        "lng": -103.3606897
+      },
+      "southwest": {
+        "lat": 25.5105414,
+        "lng": -103.3616224
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "city": "Torreón",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "Torreón",
+      "hamlet": "Fraccionamiento Moretto",
+      "postcode": "27297",
+      "road": "Circuito de la Tierra",
+      "road_type": "residential",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 9,
+    "formatted": "Circuito de la Tierra, 27297 Torreón, COA, México",
+    "geometry": {
+      "lat": 25.5112893,
+      "lng": -103.3611428
+    }
+  }
+]
+---- FOUND ejido tierra y libertad ----
+insert>Privada Tierra Nova, 27277 Torreón, COA, México as child of Viesca
+---- FOUND ejido tierra y libertad ----
+insert>Circuito de la Tierra, 27297 Torreón, COA, México as child of Viesca
+
+* finding description>ESTACION CLAUDIO
+region>LAGUNA I
+
+q>estacion claudio
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+estacion claudio
+[]
+
+q>estacion claudio
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+estacion claudio
+[]
+
+q>estacion claudio
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+estacion claudio
+[]
+
+* finding description>PARTE SUPERIOR DEL CERRO DE LA COLONIA CALERAS SOLARES
+region>LAGUNA I
+
+q>parte superior del cerro de la colonia caleras solares
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+parte superior del cerro de la colonia caleras solares
+[]
+
+q>parte superior del cerro de la colonia caleras solares
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+parte superior del cerro de la colonia caleras solares
+[]
+
+q>parte superior del cerro de la colonia caleras solares
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+parte superior del cerro de la colonia caleras solares
+[]
+
+* finding description>EJIDO SAN FRANCISCO AGUA NAVAL
+region>LAGUNA I
+
+q>ejido san francisco agua naval
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido san francisco agua naval
+[]
+
+q>ejido san francisco agua naval
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido san francisco agua naval
+[]
+
+q>ejido san francisco agua naval
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido san francisco agua naval
+[]
+
+* finding description>EJIDO BENITO JUAREZ (CUEVA DEL TABACO)
+region>LAGUNA I
+
+q>ejido benito juarez cueva del tabaco
+bound name>Torreon
+bound coords>-103.5109482,24.79310036,-102.9567947,25.69138718
+ejido benito juarez cueva del tabaco
+[]
+
+q>ejido benito juarez cueva del tabaco
+bound name>Matamoros
+bound coords>-103.3661575,25.37107277,-103.0304565,25.77618027
+ejido benito juarez cueva del tabaco
+[]
+
+q>ejido benito juarez cueva del tabaco
+bound name>Viesca
+bound coords>-103.4935532,24.73977089,-102.44676209999999,25.63485527
+ejido benito juarez cueva del tabaco
+[]
+
+* finding description>EJIDO LAS HABAS 
+region>LAGUNA II
+
+q>ejido las habas 
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido las habas 
+[]
+
+q>ejido las habas 
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido las habas 
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 46' 59.98800'' N",
+        "lng": "102° 46' 59.98800'' W"
+      },
+      "MGRS": "13RGJ2227953560",
+      "Maidenhead": "DL85os67ax",
+      "Mercator": {
+        "x": -11441787.958,
+        "y": 2953690.073
+      },
+      "OSM": {
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.78333/-102.78333&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.78333&mlon=-102.78333#map=17/25.78333/-102.78333"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swftjeqyc46354y75tn",
+      "qibla": 40.99,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074820,
+          "astronomical": 1602070260,
+          "civil": 1602073440,
+          "nautical": 1602071880
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031920,
+          "nautical": 1602033540
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "paletas.cambiando.cocinando"
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "city",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "Ejido Las Habas"
+    },
+    "confidence": 9,
+    "formatted": "Ejido Las Habas, Coahuila de Zaragoza, México",
+    "geometry": {
+      "lat": 25.78333,
+      "lng": -102.78333
+    }
+  }
+]
+
+q>ejido las habas 
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido las habas 
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 46' 59.98800'' N",
+        "lng": "102° 46' 59.98800'' W"
+      },
+      "MGRS": "13RGJ2227953560",
+      "Maidenhead": "DL85os67ax",
+      "Mercator": {
+        "x": -11441787.958,
+        "y": 2953690.073
+      },
+      "OSM": {
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.78333/-102.78333&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.78333&mlon=-102.78333#map=16/25.78333/-102.78333"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swftjeqyc46354y75tn",
+      "qibla": 40.99,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074820,
+          "astronomical": 1602070260,
+          "civil": 1602073440,
+          "nautical": 1602071880
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031920,
+          "nautical": 1602033540
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "paletas.cambiando.cocinando"
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "city",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "Ejido Las Habas"
+    },
+    "confidence": 9,
+    "formatted": "Ejido Las Habas, Coahuila de Zaragoza, México",
+    "geometry": {
+      "lat": 25.78333,
+      "lng": -102.78333
+    }
+  }
+]
+
+* finding description>EJIDO OSCAR TALAVERA
+region>LAGUNA II
+
+q>ejido oscar talavera
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido oscar talavera
+[]
+
+q>ejido oscar talavera
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido oscar talavera
+[]
+
+q>ejido oscar talavera
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido oscar talavera
+[]
+
+* finding description>EJIDO PATROCINIO
+region>LAGUNA II
+
+q>ejido patrocinio
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido patrocinio
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 47' 2.93712'' N",
+        "lng": "102° 57' 23.74668'' W"
+      },
+      "MGRS": "13RGJ0489853369",
+      "Maidenhead": "DL85ms58fe",
+      "Mercator": {
+        "x": -11461075.874,
+        "y": 2953790.798
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4776282743#map=17/25.78415/-102.95660",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.78415/-102.95660&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.78415&mlon=-102.95660#map=17/25.78415/-102.95660"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swf9jv793v944hmbwmw",
+      "qibla": 40.84,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "cartilla.midiendo.tareas"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.8041492,
+        "lng": -102.9365963
+      },
+      "southwest": {
+        "lat": 25.7641492,
+        "lng": -102.9765963
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "postcode": "27811",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "San Pedro de las Colonias",
+      "village": "Ejido Patrocinio"
+    },
+    "confidence": 7,
+    "formatted": "27811 San Pedro de las Colonias, COA, México",
+    "geometry": {
+      "lat": 25.7841492,
+      "lng": -102.9565963
+    }
+  }
+]
+---- FOUND ejido patrocinio ----
+insert>27811 San Pedro de las Colonias, COA, México as child of Francisco I Madero
+
+q>ejido patrocinio
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido patrocinio
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 47' 2.93712'' N",
+        "lng": "102° 57' 23.74668'' W"
+      },
+      "MGRS": "13RGJ0489853369",
+      "Maidenhead": "DL85ms58fe",
+      "Mercator": {
+        "x": -11461075.874,
+        "y": 2953790.798
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4776282743#map=16/25.78415/-102.95660",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.78415/-102.95660&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.78415&mlon=-102.95660#map=16/25.78415/-102.95660"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swf9jv793v944hmbwmw",
+      "qibla": 40.84,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "cartilla.midiendo.tareas"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.8041492,
+        "lng": -102.9365963
+      },
+      "southwest": {
+        "lat": 25.7641492,
+        "lng": -102.9765963
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "postcode": "27811",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "San Pedro de las Colonias",
+      "village": "Ejido Patrocinio"
+    },
+    "confidence": 7,
+    "formatted": "27811 San Pedro de las Colonias, COA, México",
+    "geometry": {
+      "lat": 25.7841492,
+      "lng": -102.9565963
+    }
+  }
+]
+---- FOUND ejido patrocinio ----
+insert>27811 San Pedro de las Colonias, COA, México as child of San Pedro
+
+q>ejido patrocinio
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido patrocinio
+[]
+
+* finding description>EJIDO SAN ANTONIO DE GURZA
+region>LAGUNA II
+
+q>ejido san antonio de gurza
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido san antonio de gurza
+[]
+
+q>ejido san antonio de gurza
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido san antonio de gurza
+[]
+
+q>ejido san antonio de gurza
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido san antonio de gurza
+[]
+
+* finding description>EJIDO SANTA ELENA
+region>LAGUNA II
+
+q>ejido santa elena
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido santa elena
+[]
+
+q>ejido santa elena
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido santa elena
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 41' 30.69276'' N",
+        "lng": "103° 1' 45.58548'' W"
+      },
+      "MGRS": "13RFJ9775643034",
+      "Maidenhead": "DL85lq66lb",
+      "Mercator": {
+        "x": -11469172.474,
+        "y": 2942447.621
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4741287395#map=16/25.69186/-103.02933",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.69186/-103.02933&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.69186&mlon=-103.02933#map=16/25.69186/-103.02933"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swdpt03ftevjjsvvqxy",
+      "qibla": 40.82,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030660,
+          "astronomical": 1602035220,
+          "civil": 1602032040,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "vaselina.altitud.fumadores"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.7118591,
+        "lng": -103.0093293
+      },
+      "southwest": {
+        "lat": 25.6718591,
+        "lng": -103.0493293
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "postcode": "27954",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Santa Elena"
+    },
+    "confidence": 7,
+    "formatted": "27954 Ejido Santa Elena, COA, México",
+    "geometry": {
+      "lat": 25.6918591,
+      "lng": -103.0293293
+    }
+  }
+]
+---- FOUND ejido santa elena ----
+insert>27954 Ejido Santa Elena, COA, México as child of San Pedro
+
+q>ejido santa elena
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido santa elena
+[]
+
+* finding description>LA CUCHILLA
+region>LAGUNA II
+
+q>la cuchilla
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+la cuchilla
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 44' 23.71272'' N",
+        "lng": "102° 57' 56.25612'' W"
+      },
+      "MGRS": "13RGJ0406848455",
+      "Maidenhead": "DL85mr47dn",
+      "Mercator": {
+        "x": -11462081.133,
+        "y": 2948353.596
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=768667318#map=17/25.73992/-102.96563",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.73992/-102.96563&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.73992&mlon=-102.96563#map=17/25.73992/-102.96563"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swf2vy9zhbhb3u9vfjb",
+      "qibla": 40.85,
+      "roadinfo": {
+        "drive_on": "right",
+        "maxspeed": 80,
+        "oneway": "no",
+        "road": "Carretera San Pedro-La Cuchilla",
+        "road_type": "primary",
+        "speed_in": "km/h",
+        "surface": "asphalt"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "tarifa.flota.exige"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.7432987,
+        "lng": -102.9656267
+      },
+      "southwest": {
+        "lat": 25.7399202,
+        "lng": -102.967508
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "hamlet": "Ejido Tebas y Palmira",
+      "postcode": "27800",
+      "road": "Carretera San Pedro-La Cuchilla",
+      "road_type": "primary",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Tacuba"
+    },
+    "confidence": 9,
+    "formatted": "Carretera San Pedro-La Cuchilla, 27800 Tacuba, COA, México",
+    "geometry": {
+      "lat": 25.7399202,
+      "lng": -102.9656267
+    }
+  },
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 43' 18.43176'' N",
+        "lng": "102° 57' 19.88244'' W"
+      },
+      "MGRS": "13RGJ0511346462",
+      "Maidenhead": "DL85mr53if",
+      "Mercator": {
+        "x": -11460956.384,
+        "y": 2946124.97
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?way=152703861#map=17/25.72179/-102.95552",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.72179/-102.95552&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.72179&mlon=-102.95552#map=17/25.72179/-102.95552"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swf34w062tcwmqt4433",
+      "qibla": 40.87,
+      "roadinfo": {
+        "drive_on": "right",
+        "maxspeed": 80,
+        "oneway": "no",
+        "road": "Carretera San Pedro-La Cuchilla",
+        "road_type": "primary",
+        "speed_in": "km/h",
+        "surface": "asphalt"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "suntuoso.flota.dificultades"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.7399202,
+        "lng": -102.951489
+      },
+      "southwest": {
+        "lat": 25.7014489,
+        "lng": -102.9656267
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "road",
+      "_type": "road",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "hamlet": "Ejido Tebas y Palmira",
+      "postcode": "27800",
+      "road": "Carretera San Pedro-La Cuchilla",
+      "road_type": "primary",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Nueva Candelaria"
+    },
+    "confidence": 7,
+    "formatted": "Carretera San Pedro-La Cuchilla, 27800 Nueva Candelaria, COA, México",
+    "geometry": {
+      "lat": 25.7217866,
+      "lng": -102.9555229
+    }
+  }
+]
+---- FOUND la cuchilla ----
+insert>Carretera San Pedro-La Cuchilla, 27800 Tacuba, COA, México as child of Francisco I Madero
+
+q>la cuchilla
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+la cuchilla
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 37' 30.10296'' N",
+        "lng": "102° 52' 30.91656'' W"
+      },
+      "MGRS": "13RGJ1334035870",
+      "Maidenhead": "DL85np40xa",
+      "Mercator": {
+        "x": -11452020.957,
+        "y": 2934239.175
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=7881167078#map=16/25.62503/-102.87525",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.62503/-102.87525&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.62503&mlon=-102.87525#map=16/25.62503/-102.87525"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swcg0bs8gd3dwymbywv",
+      "qibla": 40.97,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071880
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033540
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "nocturnos.contarlo.chocar"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.6450286,
+        "lng": -102.8552546
+      },
+      "southwest": {
+        "lat": 25.6050286,
+        "lng": -102.8952546
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "hamlet": "La Cuchilla",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 7,
+    "formatted": "La Cuchilla, San Pedro, México",
+    "geometry": {
+      "lat": 25.6250286,
+      "lng": -102.8752546
+    }
+  }
+]
+---- FOUND la cuchilla ----
+insert>La Cuchilla, San Pedro, México as child of San Pedro
+
+q>la cuchilla
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+la cuchilla
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 37' 30.10296'' N",
+        "lng": "102° 52' 30.91656'' W"
+      },
+      "MGRS": "13RGJ1334035870",
+      "Maidenhead": "DL85np40xa",
+      "Mercator": {
+        "x": -11452020.957,
+        "y": 2934239.175
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=7881167078#map=16/25.62503/-102.87525",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.62503/-102.87525&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.62503&mlon=-102.87525#map=16/25.62503/-102.87525"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swcg0bs8gd3dwymbywv",
+      "qibla": 40.97,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074880,
+          "astronomical": 1602070320,
+          "civil": 1602073500,
+          "nautical": 1602071880
+        },
+        "set": {
+          "apparent": 1602030600,
+          "astronomical": 1602035160,
+          "civil": 1602031980,
+          "nautical": 1602033540
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "nocturnos.contarlo.chocar"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.6450286,
+        "lng": -102.8552546
+      },
+      "southwest": {
+        "lat": 25.6050286,
+        "lng": -102.8952546
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "hamlet": "La Cuchilla",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA"
+    },
+    "confidence": 7,
+    "formatted": "La Cuchilla, San Pedro, México",
+    "geometry": {
+      "lat": 25.6250286,
+      "lng": -102.8752546
+    }
+  }
+]
+---- FOUND la cuchilla ----
+insert>La Cuchilla, San Pedro, México as child of Parras
+
+* finding description>LUGAR CONOCIDO COMO EL VOLCAN DE LOS CABRITOS
+region>LAGUNA II
+
+q>lugar conocido como el volcan de los cabritos
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+lugar conocido como el volcan de los cabritos
+[]
+
+q>lugar conocido como el volcan de los cabritos
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+lugar conocido como el volcan de los cabritos
+[]
+
+q>lugar conocido como el volcan de los cabritos
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+lugar conocido como el volcan de los cabritos
+[]
+
+* finding description>RANCHO LOS GAVILANES  
+region>LAGUNA II
+
+q>rancho los gavilanes  
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+rancho los gavilanes  
+[]
+
+q>rancho los gavilanes  
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+rancho los gavilanes  
+[]
+
+q>rancho los gavilanes  
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+rancho los gavilanes  
+[]
+
+* finding description>EJIDO ALEJANDRIA 
+region>LAGUNA II
+
+q>ejido alejandria 
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido alejandria 
+[]
+
+q>ejido alejandria 
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido alejandria 
+[]
+
+q>ejido alejandria 
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido alejandria 
+[]
+
+* finding description>EJIDO EL VENADO (TETAS DE JUANA)
+region>LAGUNA II
+
+q>ejido el venado tetas de juana
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido el venado tetas de juana
+[]
+
+q>ejido el venado tetas de juana
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido el venado tetas de juana
+[]
+
+q>ejido el venado tetas de juana
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido el venado tetas de juana
+[]
+
+* finding description>EJIDO FLORES MAGON
+region>LAGUNA II
+
+q>ejido flores magon
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido flores magon
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 49' 12.42732'' N",
+        "lng": "103° 3' 16.38000'' W"
+      },
+      "MGRS": "13RFJ9501557205",
+      "Maidenhead": "DL85lt36kt",
+      "Mercator": {
+        "x": -11471980.03,
+        "y": 2958214.147
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4795927416#map=16/25.82012/-103.05455",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.82012/-103.05455&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.82012&mlon=-103.05455#map=16/25.82012/-103.05455"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swdyumvnfvzrzccqeg4",
+      "qibla": 40.75,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070320,
+          "civil": 1602073560,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030660,
+          "astronomical": 1602035220,
+          "civil": 1602032040,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "laborales.picar.creerse"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.8401187,
+        "lng": -103.03455
+      },
+      "southwest": {
+        "lat": 25.8001187,
+        "lng": -103.07455
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Flores Magón"
+    },
+    "confidence": 7,
+    "formatted": "Ejido Flores Magón, San Pedro, México",
+    "geometry": {
+      "lat": 25.8201187,
+      "lng": -103.05455
+    }
+  }
+]
+---- FOUND ejido flores magon ----
+insert>Ejido Flores Magón, San Pedro, México as child of Francisco I Madero
+
+q>ejido flores magon
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido flores magon
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 49' 12.42732'' N",
+        "lng": "103° 3' 16.38000'' W"
+      },
+      "MGRS": "13RFJ9501557205",
+      "Maidenhead": "DL85lt36kt",
+      "Mercator": {
+        "x": -11471980.03,
+        "y": 2958214.147
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4795927416#map=16/25.82012/-103.05455",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.82012/-103.05455&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.82012&mlon=-103.05455#map=16/25.82012/-103.05455"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swdyumvnfvzrzccqeg4",
+      "qibla": 40.75,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070320,
+          "civil": 1602073560,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030660,
+          "astronomical": 1602035220,
+          "civil": 1602032040,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "laborales.picar.creerse"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.8401187,
+        "lng": -103.03455
+      },
+      "southwest": {
+        "lat": 25.8001187,
+        "lng": -103.07455
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "village",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "village": "Ejido Flores Magón"
+    },
+    "confidence": 7,
+    "formatted": "Ejido Flores Magón, San Pedro, México",
+    "geometry": {
+      "lat": 25.8201187,
+      "lng": -103.05455
+    }
+  }
+]
+---- FOUND ejido flores magon ----
+insert>Ejido Flores Magón, San Pedro, México as child of San Pedro
+
+q>ejido flores magon
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido flores magon
+[]
+
+* finding description>EJIDO SIMON BOLIVAR
+region>LAGUNA II
+
+q>ejido simon bolivar
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido simon bolivar
+[]
+
+q>ejido simon bolivar
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido simon bolivar
+[]
+
+q>ejido simon bolivar
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido simon bolivar
+[]
+
+* finding description> EJIDO EL SOL (TRAMO LAS VIRGENES)
+region>LAGUNA II
+
+q> ejido el sol tramo las virgenes
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ ejido el sol tramo las virgenes
+[]
+
+q> ejido el sol tramo las virgenes
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ ejido el sol tramo las virgenes
+[]
+
+q> ejido el sol tramo las virgenes
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ ejido el sol tramo las virgenes
+[]
+
+* finding description>EJIDO EL VENADO (TETAS DE JUANA)
+region>LAGUNA II
+
+q>ejido el venado tetas de juana
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido el venado tetas de juana
+[]
+
+q>ejido el venado tetas de juana
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido el venado tetas de juana
+[]
+
+q>ejido el venado tetas de juana
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido el venado tetas de juana
+[]
+
+* finding description>EJIDO LA PALMA 
+region>LAGUNA II
+
+q>ejido la palma 
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido la palma 
+[]
+
+q>ejido la palma 
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido la palma 
+[]
+
+q>ejido la palma 
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido la palma 
+[]
+
+* finding description>EJIDO LA ROSITA
+region>LAGUNA II
+
+q>ejido la rosita
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido la rosita
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 46' 47.17920'' N",
+        "lng": "103° 6' 54.63828'' W"
+      },
+      "MGRS": "13RFJ8900052647",
+      "Maidenhead": "DL85ks67ed",
+      "Mercator": {
+        "x": -11478729.03,
+        "y": 2953252.605
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4776504050#map=17/25.77977/-103.11518",
+        "note_url": "https://www.openstreetmap.org/note/new#map=17/25.77977/-103.11518&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.77977&mlon=-103.11518#map=17/25.77977/-103.11518"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swdtt1f41z401dwwb9x",
+      "qibla": 40.71,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070380,
+          "civil": 1602073560,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030660,
+          "astronomical": 1602035220,
+          "civil": 1602032040,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "origine.figuraba.aceptando"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.819772,
+        "lng": -103.0751773
+      },
+      "southwest": {
+        "lat": 25.739772,
+        "lng": -103.1551773
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "city",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "Ejido La Rosita (Concordia)"
+    },
+    "confidence": 7,
+    "formatted": "Ejido La Rosita (Concordia), San Pedro, México",
+    "geometry": {
+      "lat": 25.779772,
+      "lng": -103.1151773
+    }
+  }
+]
+---- FOUND ejido la rosita ----
+insert>Ejido La Rosita (Concordia), San Pedro, México as child of Francisco I Madero
+
+q>ejido la rosita
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido la rosita
+[
+  {
+    "annotations": {
+      "DMS": {
+        "lat": "25° 46' 47.17920'' N",
+        "lng": "103° 6' 54.63828'' W"
+      },
+      "MGRS": "13RFJ8900052647",
+      "Maidenhead": "DL85ks67ed",
+      "Mercator": {
+        "x": -11478729.03,
+        "y": 2953252.605
+      },
+      "OSM": {
+        "edit_url": "https://www.openstreetmap.org/edit?node=4776504050#map=16/25.77977/-103.11518",
+        "note_url": "https://www.openstreetmap.org/note/new#map=16/25.77977/-103.11518&layers=N",
+        "url": "https://www.openstreetmap.org/?mlat=25.77977&mlon=-103.11518#map=16/25.77977/-103.11518"
+      },
+      "UN_M49": {
+        "regions": {
+          "AMERICAS": "019",
+          "CENTRAL_AMERICA": "013",
+          "LATIN_AMERICA": "419",
+          "MX": "484",
+          "WORLD": "001"
+        },
+        "statistical_groupings": [
+          "LEDC"
+        ]
+      },
+      "callingcode": 52,
+      "currency": {
+        "alternate_symbols": [
+          "MEX$"
+        ],
+        "decimal_mark": ".",
+        "disambiguate_symbol": "MEX$",
+        "html_entity": "$",
+        "iso_code": "MXN",
+        "iso_numeric": "484",
+        "name": "Mexican Peso",
+        "smallest_denomination": 5,
+        "subunit": "Centavo",
+        "subunit_to_unit": 100,
+        "symbol": "$",
+        "symbol_first": 1,
+        "thousands_separator": ","
+      },
+      "flag": "🇲🇽",
+      "geohash": "9swdtt1f41z401dwwb9x",
+      "qibla": 40.71,
+      "roadinfo": {
+        "drive_on": "right",
+        "speed_in": "km/h"
+      },
+      "sun": {
+        "rise": {
+          "apparent": 1602074940,
+          "astronomical": 1602070380,
+          "civil": 1602073560,
+          "nautical": 1602071940
+        },
+        "set": {
+          "apparent": 1602030660,
+          "astronomical": 1602035220,
+          "civil": 1602032040,
+          "nautical": 1602033600
+        }
+      },
+      "timezone": {
+        "name": "America/Monterrey",
+        "now_in_dst": 1,
+        "offset_sec": -18000,
+        "offset_string": "-0500",
+        "short_name": "CDT"
+      },
+      "what3words": {
+        "words": "origine.figuraba.aceptando"
+      }
+    },
+    "bounds": {
+      "northeast": {
+        "lat": 25.819772,
+        "lng": -103.0751773
+      },
+      "southwest": {
+        "lat": 25.739772,
+        "lng": -103.1551773
+      }
+    },
+    "components": {
+      "ISO_3166-1_alpha-2": "MX",
+      "ISO_3166-1_alpha-3": "MEX",
+      "_category": "place",
+      "_type": "city",
+      "continent": "North America",
+      "country": "México",
+      "country_code": "mx",
+      "county": "San Pedro",
+      "state": "Coahuila de Zaragoza",
+      "state_code": "COA",
+      "town": "Ejido La Rosita (Concordia)"
+    },
+    "confidence": 7,
+    "formatted": "Ejido La Rosita (Concordia), San Pedro, México",
+    "geometry": {
+      "lat": 25.779772,
+      "lng": -103.1151773
+    }
+  }
+]
+---- FOUND ejido la rosita ----
+insert>Ejido La Rosita (Concordia), San Pedro, México as child of San Pedro
+
+q>ejido la rosita
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido la rosita
+[]
+
+* finding description>EJIDO MALANOCHE
+region>LAGUNA II
+
+q>ejido malanoche
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+ejido malanoche
+[]
+
+q>ejido malanoche
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+ejido malanoche
+[]
+
+q>ejido malanoche
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+ejido malanoche
+[]
+
+* finding description>ALREDEDORES DEL CAMPO MILITAR 6-I
+region>LAGUNA II
+
+q>alrededores del campo militar 6-i
+bound name>Francisco I Madero
+bound coords>-103.4159775,25.70682907,-102.87966159999999,26.75410271
+alrededores del campo militar 6-i
+[]
+
+q>alrededores del campo militar 6-i
+bound name>San Pedro
+bound coords>-103.2351074,25.60061073,-101.8689728,26.64840126
+alrededores del campo militar 6-i
+[]
+
+q>alrededores del campo militar 6-i
+bound name>Parras
+bound coords>-102.9047165,24.75439644,-101.3792496,26.421771999999997
+alrededores del campo militar 6-i
+[]
+
+* finding description>PARAJE EL DORADO
+region>SURESTE
+
+q>paraje el dorado
+bound name>Saltillo
+bound coords>-101.6209946,24.54268074,-100.72749329999999,25.5229187
+paraje el dorado
+[]
+
+q>paraje el dorado
+bound name>General Cepeda
+bound coords>-101.8733749,25.17666817,-101.1836548,25.91145134
+paraje el dorado
+[]
+
+q>paraje el dorado
+bound name>Ramos Arizpe
+bound coords>-101.89486690000001,25.45014572,-100.529686,26.39715385
+paraje el dorado
+[]
+
+q>paraje el dorado
+bound name>Arteaga
+bound coords>-100.95121,25.15325928,-100.22956090000001,25.53583908
+paraje el dorado
+[]
+
+* finding description>EJIDO LA PALMILLA
+region>SURESTE
+
+q>ejido la palmilla
+bound name>Saltillo
+bound coords>-101.6209946,24.54268074,-100.72749329999999,25.5229187
+ejido la palmilla
+[]
+
+q>ejido la palmilla
+bound name>General Cepeda
+bound coords>-101.8733749,25.17666817,-101.1836548,25.91145134
+ejido la palmilla
+[]
+
+q>ejido la palmilla
+bound name>Ramos Arizpe
+bound coords>-101.89486690000001,25.45014572,-100.529686,26.39715385
+ejido la palmilla
+[]
+
+q>ejido la palmilla
+bound name>Arteaga
+bound coords>-100.95121,25.15325928,-100.22956090000001,25.53583908
+ejido la palmilla
+[]
+• Coahuila POLYGON ((-99.8431198 24.54268406, -99.8431198 29.88002429, -103.9600019 29.88002429, -103.9600019 24.54268406, -99.8431198 24.54268406))
+├── • LAGUNA I POLYGON ((-102.4467635 24.73977397, -102.4467635 25.77617708, -103.5109366 25.77617708, -103.5109366 24.73977397, -102.4467635 24.73977397))
+│   ├── • Torreon POLYGON ((-102.9567947 24.79310036, -102.9567947 25.69138718, -103.5109482 25.69138718, -103.5109482 24.79310036, -102.9567947 24.79310036))
+│   │   ├── • Avenida Sierra del Quemado, 27296 Torreón, COA, México POLYGON ((-103.374122 25.5067477, -103.374122 25.5068563, -103.3749491 25.5068563, -103.3749491 25.5067477, -103.374122 25.5067477))
+│   │   ├── • 27277 Torreón, COA, México POLYGON ((-103.3082027 25.4827869, -103.3082027 25.5227869, -103.3482027 25.5227869, -103.3482027 25.4827869, -103.3082027 25.4827869))
+│   │   ├── • Privada Tierra Nova, 27277 Torreón, COA, México POLYGON ((-103.3504231 25.5051965, -103.3504231 25.5055703, -103.3511314 25.5055703, -103.3511314 25.5051965, -103.3504231 25.5051965))
+│   │   └── • Circuito de la Tierra, 27297 Torreón, COA, México POLYGON ((-103.3606897 25.5105414, -103.3606897 25.5121236, -103.3616224 25.5121236, -103.3616224 25.5105414, -103.3606897 25.5105414))
+│   ├── • Matamoros POLYGON ((-103.0304565 25.37107277, -103.0304565 25.77618027, -103.3661575 25.77618027, -103.3661575 25.37107277, -103.0304565 25.37107277))
+│   │   ├── • 27277 Torreón, COA, México POLYGON ((-103.3082027 25.4827869, -103.3082027 25.5227869, -103.3482027 25.5227869, -103.3482027 25.4827869, -103.3082027 25.4827869))
+│   │   ├── • Privada Tierra Nova, 27277 Torreón, COA, México POLYGON ((-103.3504231 25.5051965, -103.3504231 25.5055703, -103.3511314 25.5055703, -103.3511314 25.5051965, -103.3504231 25.5051965))
+│   │   └── • Circuito de la Tierra, 27297 Torreón, COA, México POLYGON ((-103.3606897 25.5105414, -103.3606897 25.5121236, -103.3616224 25.5121236, -103.3616224 25.5105414, -103.3606897 25.5105414))
+│   └── • Viesca POLYGON ((-102.4467621 24.73977089, -102.4467621 25.63485527, -103.4935532 25.63485527, -103.4935532 24.73977089, -102.4467621 24.73977089))
+│       ├── • Avenida Sierra del Quemado, 27296 Torreón, COA, México POLYGON ((-103.374122 25.5067477, -103.374122 25.5068563, -103.3749491 25.5068563, -103.3749491 25.5067477, -103.374122 25.5067477))
+│       ├── • 27277 Torreón, COA, México POLYGON ((-103.3082027 25.4827869, -103.3082027 25.5227869, -103.3482027 25.5227869, -103.3482027 25.4827869, -103.3082027 25.4827869))
+│       ├── • Privada Tierra Nova, 27277 Torreón, COA, México POLYGON ((-103.3504231 25.5051965, -103.3504231 25.5055703, -103.3511314 25.5055703, -103.3511314 25.5051965, -103.3504231 25.5051965))
+│       └── • Circuito de la Tierra, 27297 Torreón, COA, México POLYGON ((-103.3606897 25.5105414, -103.3606897 25.5121236, -103.3616224 25.5121236, -103.3616224 25.5105414, -103.3606897 25.5105414))
+├── • LAGUNA II POLYGON ((-101.3792519 24.75439672, -101.3792519 26.75409914, -103.4159638 26.75409914, -103.4159638 24.75439672, -101.3792519 24.75439672))
+│   ├── • Francisco I Madero POLYGON ((-102.8796616 25.70682907, -102.8796616 26.75410271, -103.4159775 26.75410271, -103.4159775 25.70682907, -102.8796616 25.70682907))
+│   │   ├── • 27811 San Pedro de las Colonias, COA, México POLYGON ((-102.9365963 25.7641492, -102.9365963 25.8041492, -102.9765963 25.8041492, -102.9765963 25.7641492, -102.9365963 25.7641492))
+│   │   ├── • Carretera San Pedro-La Cuchilla, 27800 Tacuba, COA, México POLYGON ((-102.9656267 25.7399202, -102.9656267 25.7432987, -102.967508 25.7432987, -102.967508 25.7399202, -102.9656267 25.7399202))
+│   │   ├── • Ejido Flores Magón, San Pedro, México POLYGON ((-103.03455 25.8001187, -103.03455 25.8401187, -103.07455 25.8401187, -103.07455 25.8001187, -103.03455 25.8001187))
+│   │   └── • Ejido La Rosita (Concordia), San Pedro, México POLYGON ((-103.0751773 25.739772, -103.0751773 25.819772, -103.1551773 25.819772, -103.1551773 25.739772, -103.0751773 25.739772))
+│   ├── • San Pedro POLYGON ((-101.8689728 25.60061073, -101.8689728 26.64840126, -103.2351074 26.64840126, -103.2351074 25.60061073, -101.8689728 25.60061073))
+│   │   ├── • 27811 San Pedro de las Colonias, COA, México POLYGON ((-102.9365963 25.7641492, -102.9365963 25.8041492, -102.9765963 25.8041492, -102.9765963 25.7641492, -102.9365963 25.7641492))
+│   │   ├── • 27954 Ejido Santa Elena, COA, México POLYGON ((-103.0093293 25.6718591, -103.0093293 25.7118591, -103.0493293 25.7118591, -103.0493293 25.6718591, -103.0093293 25.6718591))
+│   │   ├── • La Cuchilla, San Pedro, México POLYGON ((-102.8552546 25.6050286, -102.8552546 25.6450286, -102.8952546 25.6450286, -102.8952546 25.6050286, -102.8552546 25.6050286))
+│   │   ├── • Ejido Flores Magón, San Pedro, México POLYGON ((-103.03455 25.8001187, -103.03455 25.8401187, -103.07455 25.8401187, -103.07455 25.8001187, -103.03455 25.8001187))
+│   │   └── • Ejido La Rosita (Concordia), San Pedro, México POLYGON ((-103.0751773 25.739772, -103.0751773 25.819772, -103.1551773 25.819772, -103.1551773 25.739772, -103.0751773 25.739772))
+│   └── • Parras POLYGON ((-101.3792496 24.75439644, -101.3792496 26.421772, -102.9047165 26.421772, -102.9047165 24.75439644, -101.3792496 24.75439644))
+│       └── • La Cuchilla, San Pedro, México POLYGON ((-102.8552546 25.6050286, -102.8552546 25.6450286, -102.8952546 25.6450286, -102.8952546 25.6050286, -102.8552546 25.6050286))
+├── • SURESTE POLYGON ((-100.2295756 24.54268406, -100.2295756 26.39715318, -101.8948525 26.39715318, -101.8948525 24.54268406, -100.2295756 24.54268406))
+│   ├── • Saltillo POLYGON ((-100.7274933 24.54268074, -100.7274933 25.5229187, -101.6209946 25.5229187, -101.6209946 24.54268074, -100.7274933 24.54268074))
+│   ├── • General Cepeda POLYGON ((-101.1836548 25.17666817, -101.1836548 25.91145134, -101.8733749 25.91145134, -101.8733749 25.17666817, -101.1836548 25.17666817))
+│   ├── • Ramos Arizpe POLYGON ((-100.529686 25.45014572, -100.529686 26.39715385, -101.8948669 26.39715385, -101.8948669 25.45014572, -100.529686 25.45014572))
+│   └── • Arteaga POLYGON ((-100.2295609 25.15325928, -100.2295609 25.53583908, -100.95121 25.53583908, -100.95121 25.15325928, -100.2295609 25.15325928))
+├── • CENTRO POLYGON ((-100.916739 26.18521409, -100.916739 27.10073248, -101.8381352 27.10073248, -101.8381352 26.18521409, -100.916739 26.18521409))
+│   ├── • Monclova POLYGON ((-100.9167252 26.69766998, -100.9167252 27.06407166, -101.5293045 27.06407166, -101.5293045 26.69766998, -100.9167252 26.69766998))
+│   ├── • Castaños POLYGON ((-100.983757 26.18521118, -100.983757 26.89212227, -101.83815 26.89212227, -101.83815 26.18521118, -100.983757 26.18521118))
+│   └── • Frontera POLYGON ((-101.348793 26.80668831, -101.348793 27.1007328, -101.7169876 27.1007328, -101.7169876 26.80668831, -101.348793 26.80668831))
+├── • SABINAS POLYGON ((-100.9018541 27.63666089, -100.9018541 28.24413249, -101.6135633 28.24413249, -101.6135633 27.63666089, -100.9018541 27.63666089))
+│   ├── • Sabinas POLYGON ((-100.9018402 27.63665771, -100.9018402 28.244133, -101.3666763 28.244133, -101.3666763 27.63665771, -100.9018402 27.63665771))
+│   ├── • San Juan de Sabinas POLYGON ((-101.1897583 27.8790226, -101.1897583 28.23955154, -101.6135635 28.23955154, -101.6135635 27.8790226, -101.1897583 27.8790226))
+│   └── • Nueva Rosita POLYGON ((-101.1939079 27.91203817, -101.1939079 27.95526689, -101.2519748 27.95526689, -101.2519748 27.91203817, -101.1939079 27.91203817))
+├── • NORTE I POLYGON ((-100.3968043 27.82143862, -100.3968043 28.9407502, -101.0346931 28.9407502, -101.0346931 27.82143862, -100.3968043 27.82143862))
+│   ├── • Piedras Negras POLYGON ((-100.4454193 28.60662651, -100.4454193 28.94075394, -100.7656021 28.94075394, -100.7656021 28.60662651, -100.4454193 28.60662651))
+│   ├── • Allende POLYGON ((-100.7317657 28.19050026, -100.7317657 28.38165474, -101.0347061 28.38165474, -101.0347061 28.19050026, -100.7317657 28.19050026))
+│   ├── • Villa Union POLYGON ((-100.5381088 27.82143784, -100.5381088 28.37746811, -101.0330353 28.37746811, -101.0330353 27.82143784, -100.5381088 27.82143784))
+│   └── • Nava POLYGON ((-100.3967896 28.33309555, -100.3967896 28.65101814, -100.8393173 28.65101814, -100.8393173 28.33309555, -100.3967896 28.33309555))
+└── • NORTE II POLYGON ((-100.6036667 28.22239854, -100.6036667 29.88002429, -102.9063498 29.88002429, -102.9063498 28.22239854, -100.6036667 28.22239854))
+    ├── • Acuña POLYGON ((-100.8488464 28.97006989, -100.8488464 29.88002777, -102.9063644 29.88002777, -102.9063644 28.97006989, -100.8488464 28.97006989))
+    ├── • Zaragoza POLYGON ((-100.603653 28.37646103, -100.603653 29.37184525, -101.9972153 29.37184525, -101.9972153 28.37646103, -100.603653 28.37646103))
+    └── • Morelos POLYGON ((-100.8082504 28.22239494, -100.8082504 28.45348358, -101.3042297 28.45348358, -101.3042297 28.22239494, -100.8082504 28.22239494))
